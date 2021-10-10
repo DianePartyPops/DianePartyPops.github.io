@@ -1,6 +1,1 @@
-<!DOCTYPE HTML>
-<html>
-  <body>
-    Test
-  </body>
-  </html>
+
